@@ -1,2 +1,3 @@
 New file created to practice conflicts
-City:Chennai
+City:Bangalore
+
